@@ -2,13 +2,15 @@
 
 
 
-W8D2 task:
+W8D2 AI Quiz Generation
 
-\- Accept course content
 
-\- Generate 5 MCQs using AI
 
-\- Return questions in JSON format
+\- Course content is used as input
 
-\- Validate the generated JSON
+\- AI generates 5 MCQs
+
+\- Questions are returned in JSON format
+
+\- Generated JSON is validated
 
